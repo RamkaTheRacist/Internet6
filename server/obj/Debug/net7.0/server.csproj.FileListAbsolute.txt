@@ -1,0 +1,15 @@
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\bin\Debug\net7.0\server.exe
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\bin\Debug\net7.0\server.deps.json
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\bin\Debug\net7.0\server.dll
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\bin\Debug\net7.0\server.pdb
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.dll
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\refint\server.dll
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.pdb
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\where\Desktop\Education\Internet\HWRTR6\test\server\obj\Debug\net7.0\ref\server.dll
